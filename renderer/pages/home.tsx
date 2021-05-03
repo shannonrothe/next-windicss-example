@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
 import React from "react";
-import "windi.css";
 
 function Home() {
   return (
